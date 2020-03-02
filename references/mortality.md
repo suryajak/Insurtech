@@ -1,19 +1,20 @@
 
 
-[Leading causes of Death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
+[Leading causes of Death in US - 2017](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
 
-Heart disease: 647,457
-Cancer: 599,108
-Accidents (unintentional injuries): 169,936
-Chronic lower respiratory diseases: 160,201
-Stroke (cerebrovascular diseases): 146,383
-Alzheimer’s disease: 121,404
-Diabetes: 83,564
-Influenza and pneumonia: 55,672
-Nephritis, nephrotic syndrome, and nephrosis: 50,633
-Intentional self-harm (suicide): 47,173
+1. Heart disease: 647,457
+2. Cancer: 599,108
+3. Accidents (unintentional injuries): 169,936
+4. Chronic lower respiratory diseases: 160,201
+5. Stroke (cerebrovascular diseases): 146,383
+6. Alzheimer’s disease: 121,404
+7. Diabetes: 83,564
+8. Influenza and pneumonia: 55,672
+9. Nephritis, nephrotic syndrome, and nephrosis: 50,633
+10. Intentional self-harm (suicide): 47,173
 
-## [Life expectancy in US - 2017](https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_06-508.pdf)
+## [Life expectancy in US - 2017](https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_07-508.pdf)
+
 
 |     | All races and origins |       White           |        Black          |        Hispanic       |  Non-Hispanic white   |   Non-Hispanic black  |
 | Age | Total | Male | Female | Total | Male | Female | Total | Male | Female | Total | Male | Female | Total | Male | Female | Total | Male | Female |
